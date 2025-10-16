@@ -1,0 +1,64 @@
+{
+  "notifications": [
+    {
+      "title": "سياساتنا - صفحة رقم 1",
+      "message": "نلتزم بحماية خصوصية موظفينا من خلال سياسات واضحة وشفافة.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/1.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 2",
+      "message": "تضمن الشركة الحفاظ على سرية البيانات وعدم مشاركتها مع أطراف خارجية.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/2.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 3",
+      "message": "تحرص الإدارة على تطبيق القوانين العمالية المصرية بكل التزام ودقة.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/3.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 4",
+      "message": "نضمن المساواة الكاملة في الحقوق والواجبات بين جميع الموظفين بالشركة.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/4.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 5",
+      "message": "تعتمد الشركة مبادئ الشفافية والنزاهة في جميع عملياتها وإدارتها اليومية.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/5.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 6",
+      "message": "تلتزم الشركة بتوفير بيئة عمل آمنة وصحية لجميع الموظفين في كل الأقسام.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/6.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 7",
+      "message": "تسعى الشركة لتطوير مهارات العاملين وتحفيزهم لتحقيق الأداء الأمثل دائمًا.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/7.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 8",
+      "message": "جميع القرارات الإدارية تستند إلى معايير موضوعية تحقق العدالة الوظيفية.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/8.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 9",
+      "message": "تلتزم الشركة بحماية البيئة من خلال ممارسات إنتاجية مستدامة ومسؤولة.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/9.jpg",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "سياساتنا - صفحة رقم 10",
+      "message": "نؤمن بأهمية العمل الجماعي وروح الفريق لتحقيق أهداف الشركة المشتركة.",
+      "image": "https://raw.githubusercontent.com/tcrecruitment2025/tcprojects/main/images/10.jpg",
+      "date": "2025-10-13"
+    }
+  ]
+}
